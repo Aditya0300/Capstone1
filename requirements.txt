@@ -9,5 +9,5 @@ chromadb
 chroma
 sentence-transformers
 streamlit
-
+pip
 
