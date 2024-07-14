@@ -1,4 +1,4 @@
-sqlite3 == 3.35.0.
+sqlite3 == 3.35.0
 langchain
 langchain_community
 pandas
@@ -9,4 +9,5 @@ chromadb
 chroma
 sentence-transformers
 streamlit
+--upgrade pip
 
