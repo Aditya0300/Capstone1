@@ -1,4 +1,4 @@
-
+pysqlite3
 langchain
 langchain_community
 pandas
