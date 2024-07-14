@@ -1,0 +1,10 @@
+langchain
+langchain_community
+pandas
+numpy
+transformers
+torch
+chromadb
+chroma
+sentence-transformers
+streamlit
